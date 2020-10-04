@@ -2,5 +2,4 @@
 
 include_once("SignupGmailAccount.html");
 
-
 ?>
